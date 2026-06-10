@@ -1,6 +1,6 @@
 # License
 
-**Fading Love Heavy Heart**
+**Fading Love Heavy Heart, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

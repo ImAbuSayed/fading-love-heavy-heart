@@ -1,4 +1,4 @@
-# Fading Love Heavy Heart
+# Fading Love Heavy Heart, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Fading Love Heavy Heart |
+| **Title** | Fading Love Heavy Heart, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fading-love-heavy-heart/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Fading Love Heavy Heart](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fading-love-heavy-heart/) |
+| **Get License** | [Get a Licensing Quote for Fading Love Heavy Heart, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fading-love-heavy-heart/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows stretching slowly on the hardwood floor
+> I keep craving closer than we were before
+> Take this heavy feeling that I can't explain
+> Let me pull you under like a midnight rain
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `fb35c7582c0b30d7bd1fe0c672759fd28ae6d0b9cd7b0c8a2890b372f47356a6` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
